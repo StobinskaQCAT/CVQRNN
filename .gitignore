@@ -1,0 +1,23 @@
+.idea
+.python-version
+
+# figures
+/figures/classical_runs/*
+/figures/quantum_runs/*
+/figures/comparison/*
+
+# tensorboard logs
+/logs/*
+
+# all the reseults
+*.pkl
+
+# all plots
+*.pdf
+
+# virt enviroment
+/env
+
+# python files
+*.pyc
+.vscode/settings.json
